@@ -23,7 +23,16 @@
 
 
 ## REU's
+From nsf.gov:
+> NSF funds a large number of research opportunities for undergraduate students through its REU Sites program. An REU Site consists of a group of ten or so undergraduates who work in the research programs of the host institution. Each student is associated with a specific research project, where he/she works closely with the faculty and other researchers. Students are granted stipends and, in many cases, assistance with housing and travel. Undergraduate students supported with NSF funds must be citizens or permanent residents of the United States or its possessions. An REU Site may be at either a US or foreign location.
 
-## Google SOC
+TL;DR - You can do research at institutions around the US and even internationally in several subject areas. Check out the full list of subject areas [here](https://www.nsf.gov/crssprgm/reu/reu_search.jsp) or just those focused on [computer science and engineering](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5049).
 
-## Random (Free) Udacity Course
+## Google Summer of Code
+From google.com:
+> Spend your summer break writing code and learning about open source development while earning a stipend! Accepted students work with a mentor and become a part of the open source community. Many become lifetime open source developers!
+
+TL;DR - You get a mentor, a project, and a stipend.
+
+## Personal Project / (Free) Udacity Course
+Half of the battle for your first job is getting noticed for interviews. Without experience, personal projects go a long way for demonstrating interest and ability. This can be a good chance to deep dive on some area that you already have an interest in or explore more things.
