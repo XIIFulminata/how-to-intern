@@ -6,14 +6,12 @@
 |:--------------:|:--------------------:|:-----------------:|:-------------------:|:---------:|:---------------------------------------------:|
 |     Dropbox    |     Launch Intern    |  CS (or related)  |        all UG       |           | Must be first internship |
 |      Intel     |         IRISE        |                   |                     |           |                                               |
-|    JP Morgan   |    Finance Analyst   |                   |                     |           |                                               |
-| Morgan Stanley | Freshman Enhancement |                   |                     |     Y     |                                               |
-|    Facebook    | Facebook University| None |Freshman, Sophomore| Y | Demonstrate interest in BSCS |
+| Morgan Stanley | Freshman Enhancement | None | Freshman |     Y     | Demonstrate interest in Finance |
+|    Facebook    | Facebook University| None |Freshman, Sophomore| Y | Demonstrate interest in CS |
 |     Twitter    | Twitter Academy? |                   |                     | Y |           |
 | Google | Google Engineering Practicum | CS (or related) | Freshman, Sophomore | N | C, C++, Java, JavaScript or Python |
 |    Microsoft   | Microsoft Explore | None | Freshman, Sophomore | N | Intro to CS + Calc |
 |    Amazon   | Amazon Future Engineers | CS (or related) | Freshman, Sophomore | N | N/A |
-|    Khan Academy   |                      |                   |                     |           | |
 
 
 ## Internships General
