@@ -4,7 +4,7 @@ The two biggest things are getting noticed for the interview, and actually perfo
 ## Getting an interview (resume / application tips):
 * If you did any internships, research at school, or worked in your previous STEM focus area include them, but try refocus around anything you might have done that was programming related
 * CS projects are good to include if you have them. You don't have to be super active on github, but you should have some programming challenges to talk about in an interview. Hackathons which you'd now qualify for, are a good way to bang out quick projects if you like working with people, but I would recommend working on something on your own too, so you can better speak to it.
-* Skills: kinda hard to pinpoint here, but I listed any languages I felt comfortable using. The rule of thumb is to not list anything you wouldn't want to be asked about (but the caveat is you don't want to be the person that only knows 1 language)
+* Skills: kinda hard to pinpoint here, but I listed any languages I felt comfortable using. The rule of thumb is to not list anything you wouldn't want to be asked about
 * If you're doing well on the above and not getting feedback, there's probably a resume issue, so get it reviewed by someone
 * Apply early. I started in September for following summer. It's not necessary, but some companies complete their recruiting cycle as early as August
 * Get referrals if you can. If the person is in your network, they're often happy to help since most companies give bonuses for referrals.
